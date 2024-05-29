@@ -1,0 +1,10 @@
+Requirements : 
+
+To run this project, you need the following dependencies : 
+
+ - python 
+ - OpenCV
+ - NumPy
+ - SciPy
+ - imutils
+ - Haar cascade algorithm
