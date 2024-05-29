@@ -30,7 +30,7 @@ You can install these dependencies using pip :
 
 1. Clone the repository
     sh
-    git clone https://github.com/your-username/face-detection-and-tracking.git
+    git clone https://github.com/Yuvaraja6362/face-detection-and-tracking.git
     cd face-detection-and-tracking
     
 
