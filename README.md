@@ -55,15 +55,6 @@ This haar cascade is available on github. A Haar Cascade works by training the c
 2. Configuration
    - Modify config.py to set parameters like video source, detection thresholds, etc.
 
-## Project Structure
-face-detection-and-tracking/
-│
-├── models/                # Pre-trained models for face detection
-├── examples/              # Example images and videos
-├── face_detection_and_tracking.py   # Main script to run the application
-├── requirements.txt       # List of dependencies
-├── README.md              # Project documentation
-└── LICENSE                # License information
 ## How It Works
 1. Face Detection: The system uses pre-trained models to detect faces in each frame of the video.
 2. Face Tracking: Detected faces are tracked across subsequent frames to maintain continuity.
