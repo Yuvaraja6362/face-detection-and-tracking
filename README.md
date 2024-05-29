@@ -31,12 +31,13 @@ You can install these dependencies using pip :
 1. Clone the repository
     sh
     git clone https://github.com/Yuvaraja6362/face-detection-and-tracking.git
+    
     cd face-detection-and-tracking
     
 
 
 
-2. Install dependencies
+3. Install dependencies
     sh
     pip install -r requirements.txt
     
